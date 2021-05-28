@@ -1,6 +1,6 @@
 ```uml
- 	 
- 	@startuml
+
+@startuml
  	 
  	[*] -> トップページ
  	 
